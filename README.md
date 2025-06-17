@@ -35,3 +35,11 @@ This project is a **Streamlit dashboard** that provides visual insights from a S
 ---
 
 ## ▶️ Run It Locally (Optional)
+## 🔗 Live Dashboard
+
+👉 [Click to View Dashboard](https://kxw6qjhtnur5hgjasnigek.streamlit.app/)
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
